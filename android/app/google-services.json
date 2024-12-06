@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "837828636837",
+    "project_id": "pod-wave",
+    "storage_bucket": "pod-wave.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837828636837:android:18d73005a67e1c6554dd4c",
+        "android_client_info": {
+          "package_name": "com.example.podwave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837828636837-f1k20sc85fe9qfite2u7qttuo802ccsj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMVVmYXIJO4ocogXsPDkp-7w2xRdRX9GA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837828636837-f1k20sc85fe9qfite2u7qttuo802ccsj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
