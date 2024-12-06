@@ -20,6 +20,7 @@ Run the app on your emulator or physical device to explore PodWave.
 
 ### Home Screen
 ![Home screen](screenshots/Home%20screen%20screenshot.png)
+<img src="screenshots/Home%20screen%20screenshot.png" width="400"/>
 
 ### Audio Player
 ![Audio player](screenshots/Audio%20player%20screenshot.png)
